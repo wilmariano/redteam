@@ -1,15 +1,9 @@
-| Aula | Link |
-| --- | --- |
-| Backdoor | link.onion |
-| MITM | link.onion |
-| Phishing | link.onion |
-| Botnet | link.onion |
-| ICMP e NMAP | link.onion |
-| Engenharia Social | link |
-| Ransoware | link.onion |
-| Trojan | link.onion |
-| Keylogger | link.onion |
-| Worm | link.onion |
-| Brute Force | link.onion |
-| WEP, WPA, WPA2 e WPA3 | link.onion |
-| Proxychain | link |
+| Aula | Link | Data | Objetivo | 
+| --- | --- | --- | --- |
+| Backdoor e Phishing | link.onion | dd-mm-aaaa | Rastreio de dispositivo |
+| MITM | link.onion | dd-mm-aaaa | Teste de criptografia em IoT |
+| Botnet | link.onion | dd-mm-aaaa | Ataque DDoS em Broker IoT |
+| ICMP e NMAP | link.onion | dd-mm-aaaa | Prevenção a Footprint |
+| Engenharia Social | link | dd-mm-aaaa | Conscientização |
+| Wi-Fi Hacking | link.onion | dd-mm-aaaa | Analise de Segurança |
+| Proxychain | link | dd-mm-aaaa | Anonimato |
