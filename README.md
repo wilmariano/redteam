@@ -9,4 +9,5 @@
 | Proxychain | link | dd-mm-aaaa | Anonimato | ok |
 -----------------------------------------------
 ### Não tem o Kali Linux ou não sabe instalar em uma Máquina Virtual? Clique no link abaixo e resolva esse problema!
-* https://permita.me/?q=como+instalar+kali+linux+virtual+box
+* [https://permita.me/?q=como+instalar+kali+linux+virtual+box
+https://shre.ink/1okJ](https://shre.ink/1okJ)
