@@ -7,3 +7,6 @@
 | Engenharia Social | https://bityli.com/6Uuqu | dd-mm-aaaa | Conscientização | ok |
 | Wi-Fi Hacking | link.onion | dd-mm-aaaa | Analise de Segurança | -- |
 | Proxychain | link | dd-mm-aaaa | Anonimato | ok |
+-----------------------------------------------
+* https://permita.me/?q=como+instalar+kali+linux+virtual+box
+### Quer tudo na mão k7?
