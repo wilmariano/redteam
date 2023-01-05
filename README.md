@@ -8,5 +8,5 @@
 | Wi-Fi Hacking | link.onion | dd-mm-aaaa | Analise de Segurança | -- |
 | Proxychain | link | dd-mm-aaaa | Anonimato | ok |
 -----------------------------------------------
-### Não tem o Kali Linux ou não sabe instalar em uma Máquina Virtual? Clique no link abaixo e resolva esse problema!
+### Não tem o Kali Linux ou não sabe instalar no Virtual Box? Clique no link abaixo e resolva esse problema!
 * https://shre.ink/1okJ
