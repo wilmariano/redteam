@@ -10,5 +10,4 @@
 -----------------------------------------------
 ### Agora que já sabe ataque ou contra-ataque, que tal aprender defesa?
 * https://www.udemy.com/course/fundamentos-de-seguranca-da-informacao-b/?referralCode=810AFD72E2AC20E850BE
-### Saiba como obter Kali Linux no VB (VirtualBox)
-* https://shre.ink/1okJ
+
