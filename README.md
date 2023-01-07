@@ -8,5 +8,7 @@
 | Wi-Fi Hacking | link.onion | dd-mm-aaaa | Analise de Segurança | -- |
 | Proxychain | link | dd-mm-aaaa | Anonimato | ok |
 -----------------------------------------------
+### Agora que já sabe ataque ou contra-ataque, que tal aprender defesa?
+* https://www.udemy.com/course/fundamentos-de-seguranca-da-informacao-b/?referralCode=810AFD72E2AC20E850BE
 ### Não tem o Kali Linux ou não sabe instalar no Virtual Box? Clique no link abaixo e resolva esse problema!
 * https://shre.ink/1okJ
