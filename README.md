@@ -1,3 +1,5 @@
+*Links .onion serão abertos temporariamente para oficinas de Redteam a partir de Outubro
+
 | Aula | Link | Data | Objetivo | Status |
 | --- | --- | --- | --- | --- |
 | Backdoor e Phishing | link.onion | dd-mm-aaaa | Rastreio de dispositivo | ok |
@@ -10,4 +12,3 @@
 -----------------------------------------------
 ### Agora que já sabe ataque ou contra-ataque, que tal aprender defesa?
 * https://www.udemy.com/course/fundamentos-de-seguranca-da-informacao-b/?referralCode=810AFD72E2AC20E850BE
-
