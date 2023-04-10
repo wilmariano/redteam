@@ -12,5 +12,5 @@
 -----------------------------------------------
 ### Agora que já sabe ataque ou contra-ataque, que tal aprender defesa?
 * https://www.udemy.com/course/fundamentos-de-seguranca-da-informacao-b/?referralCode=810AFD72E2AC20E850BE
-ou acesse o site da Fablab Livre da Prefeitura de SP e cadastre-se de acordo com o dia disponível da oficina.
+ou acesse o site da Fablab Livre da Prefeitura de SP e cadastre-se (GRATIS) de acordo com o dia disponível da oficina.
 * https://fablablivresp.prefeitura.sp.gov.br/
